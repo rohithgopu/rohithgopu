@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rohithgopu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, Python
+- 🌱 I’m currently learning Java, Python, JavaScript
 - 📫 How to reach me rohithgopu27@gmail.com
